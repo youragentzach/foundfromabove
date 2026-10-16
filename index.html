@@ -418,102 +418,21 @@ footer{background:var(--forest-deep);color:#cfe0cf;padding:46px 0}
     <div class="sec-head">
       <div class="label">Get started</div>
       <h2>Request a search, or apply to fly</h2>
-      <p>Both forms go straight to our inbox. We read every one and reply personally. Nothing is booked until we confirm a pilot, a time, and a price with you.</p>
+      <p>Two different doors, one for each job. Customers get matched with a pilot; pilots join the network. Pick yours, the form takes about two minutes.</p>
     </div>
     <div class="form-grid">
-
       <div class="form-card">
-        <h2>Request a search</h2>
-        <p>Lost something? Tell us here and we will start matching a pilot. The sooner you send this, the better the odds.</p>
-        <form action="https://formsubmit.co/hello@modernedgelabs.com" method="POST">
-          <input type="hidden" name="_subject" value="New search request: Found From Above">
-          <input type="hidden" name="_template" value="table">
-          <input type="hidden" name="_next" value="https://foundfromabove.com/#thanks">
-          <div class="row2">
-            <div class="field"><label for="c-name">Your name *</label><input id="c-name" type="text" name="name" required autocomplete="name"></div>
-            <div class="field"><label for="c-phone">Phone *</label><input id="c-phone" type="tel" name="phone" required autocomplete="tel"></div>
-          </div>
-          <div class="field"><label for="c-email">Email *</label><input id="c-email" type="email" name="email" required autocomplete="email"></div>
-          <div class="field"><label for="c-lost">What was lost? *</label>
-            <select id="c-lost" name="what_was_lost" required>
-              <option value="">Choose one</option>
-              <option value="Deer">Deer</option>
-              <option value="Pet">Pet (dog, cat, or other)</option>
-              <option value="Livestock">Livestock</option>
-            </select>
-          </div>
-          <div class="row2">
-            <div class="field"><label for="c-city">City *</label><input id="c-city" type="text" name="city" required></div>
-            <div class="field"><label for="c-state">State *</label><input id="c-state" type="text" name="state" required></div>
-          </div>
-          <div class="field"><label for="c-when">Date and time lost</label><input id="c-when" type="datetime-local" name="date_time_lost"></div>
-          <div class="field"><label for="c-urgency">How urgent is this?</label>
-            <select id="c-urgency" name="urgency">
-              <option value="">Choose one</option>
-              <option value="As soon as possible">As soon as possible</option>
-              <option value="Today">Today</option>
-              <option value="Within 24 to 48 hours">Within 24 to 48 hours</option>
-              <option value="Planning ahead">Planning ahead</option>
-            </select>
-          </div>
-          <div class="field"><label for="c-property">Property details <span class="opt">(acreage, terrain, cover, access)</span></label><textarea id="c-property" name="property_details"></textarea></div>
-          <div class="field"><label for="c-desc">Description <span class="opt">(animal, size, color, last known location, shot details for deer)</span></label><textarea id="c-desc" name="description"></textarea></div>
-          <button class="submit" type="submit">Send search request</button>
-          <p class="fine">Submitting sends this form to our team by email. We will call or email you back to confirm. By submitting, you agree to our <a href="/terms.html">Terms of Use</a> and <a href="/privacy.html">Privacy Policy</a>. A thermal search improves the odds but does not guarantee a recovery.</p>
-        </form>
+        <h2>Lost an animal?</h2>
+        <p>Deer, dog, cat, or livestock. Tell us what happened and we will match you with a verified thermal pilot near you, then confirm a time and a price. The sooner you send it, the better the odds.</p>
+        <a href="/request.html" style="display:block;text-align:center;background:var(--accent);color:#fff;padding:14px 18px;border-radius:10px;font-weight:700;text-decoration:none;font-size:17px;margin-top:14px">Request a search</a>
+        <p class="fine">Takes about two minutes. Nothing is booked until we confirm a pilot, a time, and a price with you.</p>
       </div>
-
-      <div class="form-card" id="pilot-form">
-        <h2>Pilot application</h2>
-        <p>Fly thermal and want paid search work? Apply for the Founding Pilot Program. Year one listing is free.</p>
-        <form action="https://formsubmit.co/hello@modernedgelabs.com" method="POST">
-          <input type="hidden" name="_subject" value="New pilot application: Found From Above">
-          <input type="hidden" name="_template" value="table">
-          <input type="hidden" name="_next" value="https://foundfromabove.com/#thanks">
-          <div class="row2">
-            <div class="field"><label for="p-name">Your name *</label><input id="p-name" type="text" name="name" required autocomplete="name"></div>
-            <div class="field"><label for="p-biz">Business name</label><input id="p-biz" type="text" name="business_name"></div>
-          </div>
-          <div class="row2">
-            <div class="field"><label for="p-phone">Phone *</label><input id="p-phone" type="tel" name="phone" required autocomplete="tel"></div>
-            <div class="field"><label for="p-email">Email *</label><input id="p-email" type="email" name="email" required autocomplete="email"></div>
-          </div>
-          <div class="row2">
-            <div class="field"><label for="p-city">City *</label><input id="p-city" type="text" name="city" required></div>
-            <div class="field"><label for="p-state">State *</label><input id="p-state" type="text" name="state" required></div>
-          </div>
-          <div class="field"><label for="p-radius">Service radius (miles)</label><input id="p-radius" type="number" name="service_radius_miles" min="0" inputmode="numeric" placeholder="For example, 60"></div>
-          <div class="field"><label>Services offered</label>
-            <div class="checks">
-              <label><input type="checkbox" name="services_offered" value="Deer recovery"> Deer recovery</label>
-              <label><input type="checkbox" name="services_offered" value="Pet search"> Pet search</label>
-              <label><input type="checkbox" name="services_offered" value="Livestock recovery"> Livestock recovery</label>
-              <label><input type="checkbox" name="services_offered" value="Herd survey"> Herd survey</label>
-            </div>
-          </div>
-          <div class="field"><label for="p-aircraft">Aircraft and thermal camera model</label><input id="p-aircraft" type="text" name="aircraft_and_thermal_camera" placeholder="For example, DJI Matrice 4T"></div>
-          <div class="row2">
-            <div class="field"><label>FAA Part 107?</label>
-              <div class="radio-row">
-                <label><input type="radio" name="part_107" value="Yes"> Yes</label>
-                <label><input type="radio" name="part_107" value="No"> No</label>
-              </div>
-            </div>
-            <div class="field"><label>Insured?</label>
-              <div class="radio-row">
-                <label><input type="radio" name="insured" value="Yes"> Yes</label>
-                <label><input type="radio" name="insured" value="No"> No</label>
-              </div>
-            </div>
-          </div>
-          <div class="field"><label for="p-pricing">Typical pricing</label><input id="p-pricing" type="text" name="typical_pricing" placeholder="For example, $350 per search plus $100 if found"></div>
-          <div class="field"><label for="p-web">Website or social link</label><input id="p-web" type="text" name="website_or_social" placeholder="https://"></div>
-          <div class="field"><label for="p-notes">Anything else</label><textarea id="p-notes" name="anything_else"></textarea></div>
-          <button class="submit" type="submit">Send pilot application</button>
-          <p class="fine">Submitting sends this form to our team by email. We verify credentials before any listing goes live. By applying, you agree to our <a href="/terms.html">Terms of Use</a> and <a href="/privacy.html">Privacy Policy</a>.</p>
-        </form>
+      <div class="form-card">
+        <h2>Fly thermal drones?</h2>
+        <p>Join the Founding Pilot Program. Free verified listing for year one, deposits collected up front, and you set your own rates. We charge 10 percent only when a job books.</p>
+        <a href="/apply.html" style="display:block;text-align:center;background:var(--accent);color:#fff;padding:14px 18px;border-radius:10px;font-weight:700;text-decoration:none;font-size:17px;margin-top:14px">Apply to fly</a>
+        <p class="fine">You will need an FAA Part 107 certificate, current insurance, and a thermal equipped drone.</p>
       </div>
-
     </div>
   </div>
 </section>
@@ -566,7 +485,7 @@ footer{background:var(--forest-deep);color:#cfe0cf;padding:46px 0}
         <a href="#how">How it works</a>
         <a href="#pilots">Founding Pilot Program</a>
         <a href="#request">Request a search</a>
-        <a href="#pilot-form">Join as a pilot</a>
+        <a href="/apply.html">Join as a pilot</a>
         <a href="#faq">FAQ</a>
       </div>
       <div class="foot-links">
