@@ -37,6 +37,7 @@ Thermal drone pilots can apply at https://foundfromabove.com. Requirements: FAA 
 - Home: https://foundfromabove.com/
 - Request a search (customers): https://foundfromabove.com/request.html
 - Apply to fly (pilots): https://foundfromabove.com/apply.html
+- Ohio deer recovery (legality, cost, how it works): https://foundfromabove.com/ohio-deer-recovery.html
 - Privacy Policy: https://foundfromabove.com/privacy.html
 - Terms of Use: https://foundfromabove.com/terms.html
 - Disclaimer: https://foundfromabove.com/disclaimer.html
