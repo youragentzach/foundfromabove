@@ -8,8 +8,8 @@ Customers submit a search request at https://foundfromabove.com. Found From Abov
 
 ## Services and guide pricing
 
-- Deer recovery: starts at about $400 per search. Offered only in states where drone deer recovery is legal (see below). Some pilots charge a success fee, typically about $100, only when the deer is found.
-- Lost pet search: starts at about $300 for a standard search of about 2 hours. Available nationwide.
+- Deer recovery: typically $350 to $450 per search. Offered only in states where drone deer recovery is legal (see below). Some pilots charge a success fee, typically about $100, only when the deer is found.
+- Lost pet search: typically $200 to $450; a standard search of about 2 hours runs about $300. Available nationwide.
 - Livestock recovery and herd surveys: starts at about $300 per 2 hour search. Available nationwide.
 
 Prices are guides. The pilot confirms the full price with the customer before anything is booked. A thermal search improves the odds of finding an animal but does not guarantee a recovery. The search fee applies even when the animal is not located, because the service is the pilot's time, travel, and flight.
@@ -25,7 +25,7 @@ Drone deer recovery is prohibited in 25 states and unclear in 14 states. Found F
 1. The customer sends the search request form at https://foundfromabove.com.
 2. Found From Above matches a local verified pilot, founding pilots first.
 3. The pilot confirms availability and the full price.
-4. The customer pays a deposit to confirm the booking and hold the slot.
+4. The customer pays a $100 deposit to confirm the booking and hold the slot.
 5. The pilot flies the search and reports the outcome. A success fee, where charged, is due only when the animal is found.
 
 ## For pilots
