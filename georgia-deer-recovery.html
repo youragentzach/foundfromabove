@@ -255,6 +255,14 @@ footer{background:var(--forest-deep);color:#cfe0cf;padding:46px 0}
  ]
 }
 </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J8VZSL0N9B"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-J8VZSL0N9B');
+</script>
 </head>
 <body>
 <header class="nav">
@@ -481,6 +489,16 @@ footer{background:var(--forest-deep);color:#cfe0cf;padding:46px 0}
   window.addEventListener('hashchange', checkThanks);
   checkThanks();
 })();
+</script>
+
+<script>
+document.querySelectorAll('a[href^="tel:"], a[href^="sms:"]').forEach(function (a) {
+  a.addEventListener('click', function () {
+    if (typeof gtag === 'function') {
+      gtag('event', 'contact_click', { method: a.getAttribute('href').indexOf('tel:') === 0 ? 'call' : 'text', page_path: location.pathname });
+    }
+  });
+});
 </script>
 </body>
 </html>
