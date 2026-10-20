@@ -16,9 +16,9 @@ Prices are guides. The pilot confirms the full price with the customer before an
 
 ## Where drone deer recovery is legal
 
-Based on a state by state review of statutes, regulations, and wildlife agency positions (last updated October 2026), Found From Above offers deer recovery in these 10 states, under each state's conditions: Ohio, Missouri, Tennessee, Indiana, Wisconsin, Kentucky, Louisiana, Connecticut, Maryland, and West Virginia.
+Based on a state by state review of statutes, regulations, and wildlife agency positions (last updated October 2026), Found From Above offers deer recovery in these 11 states, under each state's conditions: Ohio, Missouri, Tennessee, Indiana, Wisconsin, Kentucky, Louisiana, Connecticut, Maryland, West Virginia, and Georgia.
 
-Drone deer recovery is prohibited in 26 states and unclear in 14 states. Found From Above does not offer deer recovery in prohibited states, and holds off in unclear states until the state wildlife agency confirms its position in writing. Georgia prohibits it under O.C.G.A. section 27-3-13, so Georgia customers are served for pet and livestock searches only. Pet and livestock searches are not restricted by hunting law and are available in all states.
+Drone deer recovery is prohibited in 25 states and unclear in 14 states. Found From Above does not offer deer recovery in prohibited states, and holds off in unclear states until the state wildlife agency confirms its position in writing. Georgia is offered under the written enforcement position of Georgia DNR Law Enforcement (confirmed to Found From Above in writing in October 2026): drones may be used to locate downed or wounded game on private property when the animal was legally hunted, with landowner permission to take off or land, never on DNR, USFS, USACOE, or other DNR managed property, and never to aid pursuit, scouting, harassing, or taking. This is the agency's enforcement position, not a change to the statute text. Pet and livestock searches are not restricted by hunting law and are available in all states.
 
 ## How booking works
 
@@ -38,6 +38,7 @@ Thermal drone pilots can apply at https://foundfromabove.com. Requirements: FAA 
 - Request a search (customers): https://foundfromabove.com/request.html
 - Apply to fly (pilots): https://foundfromabove.com/apply.html
 - Ohio deer recovery (legality, cost, how it works): https://foundfromabove.com/ohio-deer-recovery.html
+- Georgia deer recovery (legality, cost, how it works): https://foundfromabove.com/georgia-deer-recovery.html
 - Privacy Policy: https://foundfromabove.com/privacy.html
 - Terms of Use: https://foundfromabove.com/terms.html
 - Disclaimer: https://foundfromabove.com/disclaimer.html
