@@ -39,9 +39,18 @@ Thermal drone pilots can apply at https://foundfromabove.com. Requirements: FAA 
 - Apply to fly (pilots): https://foundfromabove.com/apply.html
 - Ohio deer recovery (legality, cost, how it works): https://foundfromabove.com/ohio-deer-recovery.html
 - Georgia deer recovery (legality, cost, how it works): https://foundfromabove.com/georgia-deer-recovery.html
+- Tennessee deer recovery (legality, TWRA rule, cost, how it works): https://foundfromabove.com/tennessee-deer-recovery.html
+- Articles and field notes: https://foundfromabove.com/articles.html
 - Privacy Policy: https://foundfromabove.com/privacy.html
 - Terms of Use: https://foundfromabove.com/terms.html
 - Disclaimer: https://foundfromabove.com/disclaimer.html
+
+## Articles
+
+- Articles and field notes index: https://foundfromabove.com/articles.html
+- Call before the trail goes cold: what to do at last blood, what not to do, and when to call a thermal recovery pilot. https://foundfromabove.com/call-before-the-trail-goes-cold.html
+- Warm rock, bedded deer, or your deer? Reading thermal footage: how pilots confirm a thermal hit with zoom and spotlight before anyone walks in. https://foundfromabove.com/reading-thermal-footage.html
+- Is drone deer recovery legal? It depends on the state: 11 states allow it with conditions, 25 prohibit it, 14 are unclear, and the Georgia DNR written enforcement position. https://foundfromabove.com/is-deer-recovery-legal.html
 
 ## Contact
 
